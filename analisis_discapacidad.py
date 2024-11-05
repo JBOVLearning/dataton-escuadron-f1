@@ -14,8 +14,8 @@ df_discapacidad = pd.read_csv('data/DATA_DISCAPACIDAD.csv')
 # 1. Distribucion de causas de discapacidad en los postulantes
 import matplotlib.pyplot as plt
 plt.figure(figsize=(10, 6))
-df_discapacitado['CAUSA'].hist(bins=20)
-plt.title("Distribucion de causas de discapacidad en los postulantes")
+df_discapacitado['CAUSA'].hist(bins=20, edgecolor='black')
+plt.title("Distribucion de causas de discapacidad en los postulantes", fontsize=16)
 plt.xlabel("Cantidad")
 plt.ylabel("Causas")
 plt.show()
