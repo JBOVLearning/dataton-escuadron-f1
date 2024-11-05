@@ -12,3 +12,17 @@ df_educacion = pd.read_csv('data/DATA_EDUCACION.csv', delimiter=';')
 #   'CARRERA' (Carrera que estudió)
 #   ], 
 #   dtype='object')
+
+df_educacion = pd.read_csv('DATA_EDUCACION.csv', delimiter=';')
+
+carreras = df_educacion['CARRERA'].value_counts().head(10)  # Mostrar solo las 10 más comunes
+
+# Crear el gráfico de barras
+plt.figure(figsize=(10, 6))
+carreras.plot(kind='bar', color='orchid')
+plt.title('Carreras más estudiadas (Top 10)')
+plt.xlabel('Carrera')
+plt.ylabel('Cantidad de postulantes')
+plt.xticks(rotation=90)
+plt.tight_layout()
+plt.show()
