@@ -13,11 +13,11 @@ Para más detalles sobre la ficha técnica del reto y otros recursos, puedes con
 
 ## Enlaces de Descarga
 
-- **Datasets Utilizados en el Análisis**: Puedes descargar los datasets a través del siguiente enlace:  
+- **Datasets utilizados en el análisis**: Puedes descargar los datasets a través del siguiente enlace:  
   [Descargar Datasets 2024](https://senatipe-my.sharepoint.com/:f:/g/personal/1519839_senati_pe/EicF7DTGfMVCqI5UMLWDBTcB2m4zOlE3xZG3kOqT1sZ-SA?e=bHUdpT)
 
-- **Resumen Completo del Trabajo en PDF**:  
-  [Descargar PDF del Análisis](URL)
+- **Resumen completo del trabajo en PDF**:  
+  [Ver PDF del Análisis](https://senatipe-my.sharepoint.com/:b:/g/personal/1519839_senati_pe/EYmWrqbCWptAu1Dd4Sj9SioB1spM6FYIIolcqZ7As-P8ww?e=GuGGwJ)
 
 ---
 
